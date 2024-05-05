@@ -1,6 +1,6 @@
 # Number-Guessing-Game
 
-Completed a number guessing game:
+Completed a number guessing game that:
 - Generates a random number between 1 and 100.
 - Asks the player for thier guess.
 - Displays whether the guess is higher or lower than the number.
